@@ -1,4 +1,3 @@
-Questa è la mia collezione sul mio flipper zero !!!!
 
 Alcuni file sono stati presi dal gruppo Telegram https://t.me/flipperzeroitalia
 
